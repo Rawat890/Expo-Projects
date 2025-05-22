@@ -1,0 +1,1 @@
+export const reactIcon = require('../assets/icons/react.png')
